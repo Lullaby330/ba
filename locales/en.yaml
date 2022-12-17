@@ -1,9 +1,7 @@
-greeting: "Hai ${username}.\nBot Ini berfungsi untuk membuat group dari foto atau video tanpa harus upload ulang,\n\n /help untuk bantuan.
-help: 'Teruskan saja atau kirimi saya banyak foto dan/atau video. Setelah Anda selesai, tekan tombol "Buat Album" dan buat semua file yang Anda kirim sebelumnya macet menjadi album. Jika Anda mengacau, klik "Hapus Album" untuk memulai lagi. \n\n This piece of shit is made by @fybadmins'
-settings: 'Join Our Channel @foryoubabes1, contact @fybadmins to make like this bot'
-source: "Repo Bisa Dibeli Dengan Harga 10$ Hubungi @ftbadmins"
-
-
+greeting: "Hey ${username}! 👋 Bot Ini berfungsi untuk membuat group dari foto atau video tanpa harus upload ulang."
+help: "kirim foto atau video. lalu tekan tombol "Buat Album" dan buat semua file yang Anda kirim sebelumnya macet menjadi album.."
+settings: "There are no settings to be made here"
+source: "Repo Bisa Dibeli Dengan Harga 10$ Hubungi @fybadmins"
 keyboard_done: "Album"
 keyboard_clear: "Reset"
 not_enough_media_items: "Maaf 🙏, Kamu Harus Mengirim Foto Atau Video Terlebih Dahulu."
